@@ -6,4 +6,4 @@ def position_taken?(board,index)
   elsif index = "O"
     true
   end
-end1
+end
